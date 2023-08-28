@@ -1,3 +1,5 @@
+![](enzyme_head.jpg)
+
 ## Introduction
 In this Data Science project, we aim to predict enzyme stability (tm) using machine learning and deep learning models. Enzyme stability is an important factor in determining the performance and shelf life of industrial enzymes, which are used in a variety of applications including food processing, pharmaceuticals, and biofuels. 
 
